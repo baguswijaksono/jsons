@@ -1,3 +1,17 @@
+# User Interface Preview
+Few image of this web app User Interface
+| Add JSON Page | Edit JSON Page |
+|---|---|
+| ![Add Image](https://raw.githubusercontent.com/baguswijaksono/json-storage/main/imagedocs/add.png) | ![Edit Image](https://raw.githubusercontent.com/baguswijaksono/json-storage/main/imagedocs/edit.png) |
+
+| Get JSON Page | Home Page |
+|---|---|
+| ![Get JSON Image](https://raw.githubusercontent.com/baguswijaksono/json-storage/main/imagedocs/getjson.png) | ![Home Image](https://raw.githubusercontent.com/baguswijaksono/json-storage/main/imagedocs/home.png) |
+
+| Login Page | Register Page |
+|---|---|
+| ![Login Image](https://raw.githubusercontent.com/baguswijaksono/json-storage/main/imagedocs/login.png) | ![Register Image](https://raw.githubusercontent.com/baguswijaksono/json-storage/main/imagedocs/register.png) |
+
 
 # Fetching Data from an API
 
